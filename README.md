@@ -73,10 +73,10 @@ The dataset includes features like:
 ## 📦 Installation & Usage  
 
 ### 🔹 Step 1: Clone the repository  
-```bash
+
 git clone https://github.com/<your-username>/CardioPredict.git
 cd CardioPredict
- 
+
 ### 🔹 Step 2: Create conda environment
 conda env create --prefix ./env -f ../../project_environment.yml
 conda activate ./env
@@ -85,3 +85,17 @@ conda activate ./env
 jupyter notebook
 
 ---
+
+## 📜 Future Improvements
+- Add Deep Learning models (Neural Networks)
+- Deploy via Flask/Django web app
+- Build an interactive dashboard for predictions
+
+---
+
+### 🧑‍💻 Author
+- 👨‍🎓 Om Sonawane
+- 💼 Computer Engineering Student | Full-stack & ML Developer
+- 🌐 Passionate about AI, ML, and UI/UX
+- 📫 Connect with me on LinkedIn (https://www.linkedin.com/in/om-sonawane360/)
+
