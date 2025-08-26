@@ -93,7 +93,7 @@ jupyter notebook
 
 ---
 
-### 🧑‍💻 Author
+### 🧑‍💻 Author 
 - 👨‍🎓 Om Sonawane
 - 💼 Computer Engineering Student | Full-stack & ML Developer
 - 🌐 Passionate about AI, ML, and UI/UX
