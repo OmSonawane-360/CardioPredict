@@ -10,7 +10,7 @@ CardioPredict is a **supervised classification ML project** built to predict whe
 
 The project demonstrates the **end-to-end ML workflow**:  
 - 📊 Data preprocessing  
-- 🔍 Exploratory Data Analysis (EDA)  
+- 🔍 Exploratory Data Analysis (EDA)   
 - 🤖 Model training & evaluation  
 - ✅ Performance comparison across algorithms  
 
