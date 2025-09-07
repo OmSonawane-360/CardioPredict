@@ -1,7 +1,7 @@
 # ❤️ CardioPredict  
 
 > ❤ CardioPredict – Heart Disease Prediction using Machine Learning 
-> 🧠 A supervised (Classification) machine learning project for predicting **heart disease** using patient health data.   
+> 🧠 A supervised (Classification) machine learning project for predicting **heart disease** using patient health data.    
 
 --- 
  
