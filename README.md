@@ -5,7 +5,7 @@
  
 --- 
    
-## 📌 Overview  
+## 📌 Overview   
 CardioPredict is a **supervised classification ML project** built to predict whether a patient has heart disease based on clinical attributes such as age, sex, cholesterol level, blood pressure, etc.  
  
 The project demonstrates the **end-to-end ML workflow**:  
